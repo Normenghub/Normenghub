@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<p style="text-align: center; color: white; fontSize: 100">                SHEEN</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=SHEEN&color=white&fontSize=150" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
