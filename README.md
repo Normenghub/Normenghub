@@ -49,6 +49,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=normenghub&show_icons=true&theme=radical)
 
 </div>
+
+<div align="center">
+
+  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyperflow)
+
+</div>
 <br>
 
 <h3 align="center">Contact</h3>
