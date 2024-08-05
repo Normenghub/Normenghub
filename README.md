@@ -1,8 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=SHEEN&fontSize=120" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
+  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=develroper)
 
 </div>
 
@@ -50,11 +49,6 @@
 
 </div>
 
-<div align="center">
-
-  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=develroper)
-
-</div>
 <br>
 
 <h3 align="center">Contact</h3>
