@@ -48,7 +48,6 @@
   
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Normenghub&show_icons=true&theme=merko)  
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=develroper&theme=cold)
 </div>
 
 <br>
